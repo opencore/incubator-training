@@ -19,7 +19,7 @@ These are non-goals for this project:
 - Some kind of official “Apache Training Program” with certifications etc.
     - Based on feedback and future developments this may change but we believe it’s out of scope initially
 - Project documentation
-- The training material we develop is not necessarily self-explanatory. It still benefits from an experienced instructor but it will enable talented people without the time or resources for developing and maintaining material to provide trainings.
+- The training material we develop is not necessarily self-explanatory. It benefits from an experienced instructor but it will enable talented people without the time or resources for developing and maintaining material to provide trainings.
 
 ### Rationale
 There are tons of companies offering training for and around the Apache ecosystem. From our experience everyone is building a very similar set of slides and labs (there’s only so many ways you can explain a concept). This project aims to create and use synergies. By also bringing these resources closer to their origin we hope to improve quality, freshness of the content and versatility (e.g. more language options).
