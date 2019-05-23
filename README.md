@@ -32,6 +32,7 @@ The initial goal for the first few weeks or months is to have discussions and ag
 From there we want to start building a library of content.
 
 
+..
 ### Getting involved
 
 The main resource for any discussion around this project is the dev mailing list (see below). If you have any specific question or want to get involved in any way, by all means, do so and reach out and say hi!
