@@ -390,11 +390,12 @@ body {
 
 .footer .right {
   position: absolute;
-  left: 80px;
+  right: 80px;
   bottom: 20px;
   text-align: center;
   width: 100%;
   background-image: url(../../../images/apachecon.jpg);
+  background-position: bottom right;
   background-repeat: no-repeat;
   background-size: contain;
 }
