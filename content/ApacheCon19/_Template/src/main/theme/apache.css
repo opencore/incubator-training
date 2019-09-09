@@ -383,7 +383,7 @@ body {
   bottom: 5px;
   width: 40px;
   height: 80px;
-  background-image: url(/home/sliebau/incubator-training/content/ApacheCon19/_Template/src/main/resources/images/small-feather.png);
+  background-image: url(../../../images/small-feather.png);
   background-repeat: no-repeat;
   background-size: contain;
 }
@@ -394,4 +394,7 @@ body {
   bottom: 20px;
   text-align: center;
   width: 100%;
+  background-image: url(../../../images/apachecon.jpg);
+  background-repeat: no-repeat;
+  background-size: contain;
 }
