@@ -1,0 +1,67 @@
+////
+
+  Licensed to the Apache Software Foundation (ASF) under one or more
+  contributor license agreements.  See the NOTICE file distributed with
+  this work for additional information regarding copyright ownership.
+  The ASF licenses this file to You under the Apache License, Version 2.0
+  (the "License"); you may not use this file except in compliance with
+  the License.  You may obtain a copy of the License at
+
+      http://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License.
+
+////
+
+== Current Content
+So, what content do we have committed so far?
+
+=== Navigating the ASF Incubator Process
+* A slide deck to help understand the Apache Incubator
+** What is it there for?
+** Where can I find information?
+** Where can I ask for help?
+
+=== How To Slide Your Release Past The Incubator
+* Releases are hard!
+* You haven't really released something until you are -1'ed by Justin
+* These slides were created by Justin to help prepare proper releases
+
+=== Incubator Release Checklist
+* The name pretty much says it all
+* You can use this to check if your release meets formal criteria
+
+=== Apache Ignite Slides
+* Brief introduction to Apache Ignite
+
+=== Training: Apache ZooKeeper
+* Brief introductory slides about Zookeeper
+* What it is, what it does, etc.
+
+[NOTE.speaker]
+--
+* Point out collaboration with the Zookeeper community on this!
+--
+
+== Things that are in the Pipeline
+
+=== Github Challenges
+image::githubchallenge.png[]
+
+[NOTE.speaker]
+--
+* Currently in review
+* Contributed by Isabel Drost-Fromm
+* Posted in the coffee kitchen at her company's office
+--
+
+=== Kafka Security
+* Introduction to Security in Kafka
+* Available Authentication Methods
+* How ACLs work in Kafka
+* Encryption in transit
+
