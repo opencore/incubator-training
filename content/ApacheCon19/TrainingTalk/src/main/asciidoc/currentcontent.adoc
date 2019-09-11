@@ -25,6 +25,7 @@ So, what content do we have committed so far?
 ** What is it there for?
 ** Where can I find information?
 ** Where can I ask for help?
+* This is our first proper release
 
 === How To Slide Your Release Past The Incubator
 * Releases are hard!
@@ -49,7 +50,7 @@ So, what content do we have committed so far?
 
 == Things that are in the Pipeline
 
-=== Github Challenges
+=== GitHub Challenges
 image::githubchallenge.png[]
 
 [NOTE.speaker]
@@ -64,4 +65,9 @@ image::githubchallenge.png[]
 * Available Authentication Methods
 * How ACLs work in Kafka
 * Encryption in transit
+
+=== Apache Spark
+* This one was an external contribution
+* There are PowerPoints in Jira
+* We need someone to review this!
 

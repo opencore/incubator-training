@@ -81,5 +81,5 @@ Success!!
 * Tooling for spinning up VMs in AWS, Azure, GCP, ...
 ** Provisioning
 ** Prepping with data
-** Whatever else is necessarry
+** Whatever else is necessary
 

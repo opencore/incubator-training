@@ -34,9 +34,13 @@ include::history.adoc[]
 
 include::motivation.adoc[]
 
+include::scope.adoc[]
+
 include::currentcontent.adoc[]
 
 include::ideas.adoc[]
+
+include::future.adoc[]
 
 == Questions?
 Ask now, see me after the session, or email me, {author} at {email}.

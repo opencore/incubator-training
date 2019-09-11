@@ -1,0 +1,42 @@
+== Scope
+
+So, what are we actually trying to achieve?
+
+What's in scope for the project?
+
+
+== Scope
+
+Anything, really!
+
+
+== Scope
+
+Some ideas though:
+
+[%step]
+* Slides
+* Labs/Hands-on
+* A tool to collect feedback from Training attendees
+* Videos
+* Quizzes
+
+Basically: Content and Tooling around educating people
+
+== Scope
+
+We also plan to _not_ limit ourselves to Apache projects (or potentially even non-technical stuff).
+
+If anyone fancies creating a Windows Server course we'd happily take it!
+
+
+== Scope
+
+There are a few things we do _not_ plan to do:
+
+[%step]
+* Being _the official X for Apache Y_
+** This is important and it is something we need to communicate (better)
+* Offering any kind of _certification_
+* Documentation in the traditional sense
+** We see ourselves consuming that instead and there might be some improvements we can contribute back as a result but we don't want to be a primary source of information for that kind of stuff

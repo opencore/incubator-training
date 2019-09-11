@@ -1,0 +1,32 @@
+== What we'd like
+
+* Collaborate with the projects itself
+** We tried this twice
+*** Once (ZooKeeper) worked out really well
+*** We received some (valid) concerns from the other one (Spark)
+** As mentioned: Need to make sure to not appear to be _endorsed_ (unless of course a project wishes that)
+
+=== Criticism
+
+"[...] as an Apache project, it might appear to 'bless' one set of materials as authoritative over all the others out
+there. And there are already lots of good ones.
+
+It's also a separate project from Spark. We might have trouble
+ensuring the info is maintained and up to date, and sometimes outdated
+or incorrect info is worse than none - especially if it appears quasi
+official. [...]"
+
+
+== What we'd like
+
+* A Web UI to browse, filter, search, combine our content
+* A "parent POM" that new pieces of content can inherit from
+** Currently - unfortunately - this involves Copy & Pasting
+
+
+== What I'd like
+
+Justin, don't beat me for this:
+
+[% step]
+* An easier way to "release" a product
