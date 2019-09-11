@@ -27,13 +27,13 @@ But we have a lot of ideas where we can take this!
 Imagine your employer asks you to read up on this new product and bring your colleagues up to speed on it.
 
 == What do you do today?
-* Check out the Github page
+* Check out the GitHub page
 * Browse the documentation
 * Install it & play around with it
 * Create some slides to show your colleagues
 
 == How I Imagine this in the Future (1)
-* Check out the Github page
+* Check out the GitHub page
 * Browse the documentation
 * Install & play around with it
 
@@ -58,7 +58,7 @@ Success!!
 [NOTE.speaker]
 --
 * Find icons here: https://fontawesome.com/v4.7.0/icons/
-* Color icons by defining css styles in apache.css and referencing them with "role"
+* Color icons by defining CSS styles in apache.css and referencing them with "role"
 --
 
 == Metadata
