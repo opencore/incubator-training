@@ -1,0 +1,45 @@
+== Motivation
+
+Okay, we learned a part of the "When" but what about the "Why"?
+
+
+== Motivation
+
+* Because we are tired of seeing people create the same stupid set of slides over and over
+** There are only so many ways to skin a cat
+* In the end we all explain the same concepts very similarly
+** Like...how many people have created slides to explain a consensus algorithm
+** or how HDFS works
+** or how Kafka achieves its performance
+** or how Git works
+** etc.
+
+
+== Motivation
+
+* The moment we've finished a set of slides you folks have already changed something  and the slides need updating
+* It makes us want to cry when we see people peddling outdated and/or wrong content to customers
+* To create high-quality material you need the best people
+** Unfortunately those are usually busy getting shit done
+
+
+== Motivation
+
+* In short: We want to be able to teach more stuff to more people
+* Collaborating on the material is a logical thing to do
+* Lots of companies (us included) treat(ed) their material as the proprietary stuff that needs to be kept secret and sold
+** We now think (read: hope) that customers are willing to pay for experienced trainers instead of the material
+
+
+== Motivation
+
+* You can look at the material for free and potentially learn on your own
+** Look before you buy!
+* Have multiple translations for the same material
+
+
+== Motivation
+
+The mission of the ASF is *to provide software for the public good*.
+
+We want to help achieve that mission by making the software we produce more accessible and usable for a broader audience.

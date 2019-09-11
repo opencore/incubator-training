@@ -17,4 +17,23 @@
 
 ////
 
-* TODO Fill in your own your info here
+
+== Apache Training
+:description: What, when how, why, where, who!
+:author: Sönke Liebau & Lars Francke
+:email: larsfrancke@apache.org
+{author} +
+{email} +
+
+image::ApacheLogo.png[]
+
+== Who are we?
+include::aboutme.adoc[]
+
+include::history.adoc[]
+
+include::motivation.adoc[]
+
+== Questions?
+Ask now, see me after the session, or email me, {author} at {email}.
+

@@ -17,23 +17,24 @@
 
 ////
 
+== Sönke Liebau
 
-== ApacheCon Talk Template
-:description: Change this!
-:keywords: Change this!
-:author: Your Name
-:email: Your email
-:position: Your Job title
-{author} +
-{position} +
-{email} +
-
-image::ApacheLogo.png[]
-
-== Who am I?
-include::aboutme.adoc[]
+* Contributor: Kafka & various others
+* PPMC: Training
 
 
-== Questions?
-Ask now, see me after the session, or email me, {author} at {email}.
+== Lars Francke
 
+* ASF Member
+* Committer: HBase, Hive, (ORC)
+* PPMC & Champion: Training
+
+
+== Both
+
+* Founded https://www.opencore.com[OpenCore] together
+* Consultancy focused on the Big Data ecosystem
+** Broadly speaking, talk to us if you're interested in learning more
+* Based in Germany
+* For good beer we can recommend "Gordon Biersch"
+** This is "Training" after all

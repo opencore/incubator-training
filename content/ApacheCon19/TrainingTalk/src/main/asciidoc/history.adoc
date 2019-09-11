@@ -1,0 +1,50 @@
+== History
+
+* We've created Training material for years
+* Preparing hundreds of slides can be very tiresome
+* Keeping them updated is even worse
+** Especially when the projects move so fast!
+*** Everyone: Stop working until we catch up!
+
+
+== History
+
+* We obviously had the best material out there
+** Highest quality, good quantity, nice pictures, very competent trainers
+* Done this for years, for various topics
+* Wanted to expand to more topics but didn't have the energy to create even one additional slide
+
+
+== History
+
+image::head.jpg[]
+Source: https://www.flickr.com/photos/fmgbain/34226579063[flickr.com]
+
+== History
+
+* 2018 we met our friends from https://www.inovex.de[inovex]
+* Turns out we're not so special!
+* They had the same issue
+** We're a two people company
+** They have over a hundred people!
+* Encouraging to hear we're not alone
+
+
+== History
+
+* Out of this meeting grew the idea of collaborating on material
+* At the same time (unknown to us) there was a discussion going on at the ASF about providing Training material as well but nothing came out of it
+* December 2018 we started discussions on the Mailing Lists about a potential Training project
+** Received broad support
+
+== History
+
+image:santa_claus.jpg[]]
+Source: https://commons.wikimedia.org/wiki/File:Jonathan_G_Meath_portrays_Santa_Claus.jpg[WikiMedia]
+
+== History
+
+* Started the Incubator Proposal discussion in January 2019
+* Started the vote in February
+* Vote successful in February as well
+* Around early to mid March we did start discussing things
