@@ -21,7 +21,7 @@
 == Apache Training
 :description: What, when how, why, where, who!
 :author: Sönke Liebau & Lars Francke
-:email: larsfrancke@apache.org
+:email: soenkeliebau@apache.org & larsfrancke@apache.org
 {author} +
 {email} +
 
