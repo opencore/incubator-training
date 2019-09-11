@@ -211,7 +211,7 @@ html lang=(attr :lang, 'en' unless attr? :nolang)
         // Optional libraries used to extend on reveal.js
         dependencies: [
             { src: '//cdnjs.cloudflare.com/ajax/libs/socket.io/2.2.0/socket.io.js', async: true },
-        		{ src: 'plugin/multiplex/master.js', async: true },
+        		{ src: '#{revealjsdir}/plugin/multiplex/master.js', async: true },
             { src: '#{revealjsdir}/lib/js/classList.js', condition: function() { return !document.body.classList; } },
             { src: '#{revealjsdir}/plugin/markdown/marked.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
             { src: '#{revealjsdir}/plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },

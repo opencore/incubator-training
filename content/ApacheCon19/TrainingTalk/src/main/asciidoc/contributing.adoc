@@ -1,2 +1,25 @@
 == Do You Want Help?
 *Absolutely!!!*
+
+== Existing Pull Requests
+* Help with reviewing pull requests
+** Formal Review
+** Content Review
+
+== Convert Donated Material
+* Material might have been donated in a variety of formats (most commonly Powerpoint)
+* We need help with converting this to Asciidoc
+
+== Create New Content
+* Do you have a topic near and dear to your heart?
+** Growing tomatoes on small balconies with no sun exposure?
+** Performing an oil change on a 1967 Oldsmobile Regency?
+** ...
+
+Pull Requests welcome!
+
+== Become Part of the Community
+* Join us on the mailing list
+* Give input on what you think would make sense to do
+
+
