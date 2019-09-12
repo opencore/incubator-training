@@ -17,11 +17,12 @@ or incorrect info is worse than none - especially if it appears quasi
 official. [...]"
 
 
-== What we'd like
+== What We'd like
 [%step]
 * A Web UI to browse, filter, search, combine our content
 * A "parent POM" that new pieces of content can inherit from
 ** Currently - unfortunately - this involves Copy & Pasting
+* Different templates that can easily be reused
 
 
 == What I'd like

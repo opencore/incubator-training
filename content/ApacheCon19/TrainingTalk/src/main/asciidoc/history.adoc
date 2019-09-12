@@ -43,7 +43,8 @@ Source: https://www.flickr.com/photos/fmgbain/34226579063[flickr.com]
 
 == History
 
-image:santa_claus.jpg[]]
+image:santa_claus.jpg[width=400]
+
 Source: https://commons.wikimedia.org/wiki/File:Jonathan_G_Meath_portrays_Santa_Claus.jpg[WikiMedia]
 
 == History
