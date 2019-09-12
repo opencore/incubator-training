@@ -25,7 +25,7 @@
 {author} +
 {email} +
 
-image::ApacheLogo.png[]
+image::TrainingLogo.png[width=500]
 
 == Follow Along
 image:urlbarcode.jpg[width=400]
