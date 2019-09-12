@@ -28,7 +28,7 @@
 image::ApacheLogo.png[]
 
 == Follow Along
-image:urlbarcode.jpg[]
+image:urlbarcode.jpg[width=400]
 
 http://presentation.opencore.com/apachecon19/
 

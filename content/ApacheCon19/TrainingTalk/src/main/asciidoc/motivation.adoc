@@ -18,7 +18,7 @@ Okay, we learned a part of the "When" but what about the "Why"?
 
 == Motivation
 
-[% step]
+[%step]
 * The moment we've finished a set of slides you folks have already changed something  and the slides need updating
 * It makes us want to cry when we see people peddling outdated and/or wrong content to customers
 * To create high-quality material you need the best people
@@ -27,7 +27,7 @@ Okay, we learned a part of the "When" but what about the "Why"?
 
 == Motivation
 
-[% step]
+[%step]
 * In short: We want to be able to teach more stuff to more people
 * Collaborating on the material is a logical thing to do
 * Lots of companies (us included) treat(ed) their material as the proprietary stuff that needs to be kept secret and sold

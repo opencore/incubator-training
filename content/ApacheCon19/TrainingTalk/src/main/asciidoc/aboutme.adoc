@@ -17,20 +17,20 @@
 
 ////
 
-=== Sönke Liebau
+== Sönke Liebau
 
 * Contributor: Kafka & various others
 * PPMC: Training
 
 
-=== Lars Francke
+== Lars Francke
 
 * ASF Member
 * Committer: HBase, Hive, (ORC)
 * PPMC & Champion: Training
 
 
-=== Both
+== Both
 
 [% step]
 * Founded https://www.opencore.com[OpenCore] together
