@@ -21,6 +21,7 @@ official. [...]"
 [%step]
 * A Web UI to browse, filter, search, combine our content
 * A "parent POM" that new pieces of content can inherit from
+* Maven archetype to generate new slide decks
 ** Currently - unfortunately - this involves Copy & Pasting
 * Different templates that can easily be reused
 

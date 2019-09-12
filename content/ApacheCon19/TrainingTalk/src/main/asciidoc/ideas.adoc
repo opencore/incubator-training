@@ -22,6 +22,7 @@
 * Currently mostly focused on getting up and running
 * Create basic tooling
 * Get the community going
+
 But we have a lot of ideas where we can take this!
 
 == Ideas for the Future
@@ -64,6 +65,9 @@ Success!!
 * Find icons here: https://fontawesome.com/v4.7.0/icons/
 * Color icons by defining CSS styles in apache.css and referencing them with "role"
 --
+
+== Tooling to Compose New Presentations
+*
 
 == Metadata
 [%step]
