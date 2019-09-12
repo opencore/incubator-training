@@ -60,15 +60,6 @@ Success!!
 ** Composable
 * Nice UI
 
-[NOTE.speaker]
---
-* Find icons here: https://fontawesome.com/v4.7.0/icons/
-* Color icons by defining CSS styles in apache.css and referencing them with "role"
---
-
-== Tooling to Compose New Presentations
-*
-
 == Metadata
 [%step]
 * Product
@@ -77,6 +68,23 @@ Success!!
 * Duration
 * Prerequisites
 * ...
+
+== Local Repositories
+* Create internal proprietary modules
+** Have them searchable, ...
+** All the features we just discussed
+
+== Tooling to Compose New Presentations
+* Reference existing content
+* Compose presentations from it
+* Add your own content (maybe from your companies repository)
+* Style to your liking
+* Compile the perfect Uber-presentation
+
+== My Vision
+* Commercial Training companies adopt our tooling for their content
+* Contribute some open modules
+* Extend these with their proprietary content
 
 == Feedback System
 [%step]
