@@ -36,7 +36,7 @@ Okay, we learned a part of the "When" but what about the "Why"?
 
 == Motivation
 
-[% step]
+[%step]
 * You can look at the material for free and potentially learn on your own
 ** Look before you buy!
 * Have multiple translations for the same material

@@ -32,7 +32,7 @@
 
 == Both
 
-[% step]
+[%step]
 * Founded https://www.opencore.com[OpenCore] together
 * Consultancy focused on the Big Data ecosystem
 ** Broadly speaking, talk to us if you're interested in learning more

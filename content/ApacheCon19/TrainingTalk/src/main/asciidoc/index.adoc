@@ -50,5 +50,5 @@ include::future.adoc[]
 include::contributing.adoc[]
 
 == Questions?
-Ask now, see me after the session, or email me, {author} at {email}.
+Ask now, see us after the session, or email us, {author} at {email}.
 

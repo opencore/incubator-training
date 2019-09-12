@@ -21,6 +21,7 @@ Some ideas though:
 * Videos
 * Quizzes
 
+[%step]
 Basically: Content and Tooling around educating people
 
 == Scope

@@ -18,6 +18,7 @@
 ////
 
 == Current State
+[%step]
 * Currently mostly focused on getting up and running
 * Create basic tooling
 * Get the community going
@@ -27,28 +28,31 @@ But we have a lot of ideas where we can take this!
 Imagine your employer asks you to read up on this new product and bring your colleagues up to speed on it.
 
 == What do you do today?
+[%step]
 * Check out the GitHub page
 * Browse the documentation
 * Install it & play around with it
 * Create some slides to show your colleagues
 
 == How I Imagine this in the Future (1)
+[%step]
 * Check out the GitHub page
 * Browse the documentation
 * Install & play around with it
 
 == How I Imagine this in the Future (2)
+[%step]
 * Go on the Apache Training website and look for modules on this product
 ** Select the introductory and two advanced modules that you consider of interest
 ** Include these modules in your presentation
 ** Add custom intro slides and company specific information
 * Compile presentation with your company's CI
 
-
 ==  How I Imagine this in the Future (3)
 Success!!
 
 == Content Repository
+[%step]
 * Apache Training as a huge content repository for all sorts of training material
 ** Fully indexed and searchable
 ** Tagged with meaningful metadata
@@ -62,6 +66,7 @@ Success!!
 --
 
 == Metadata
+[%step]
 * Product
 * Skill Level
 * Content
@@ -70,6 +75,7 @@ Success!!
 * ...
 
 == Feedback System
+[%step]
 * Collect general and specific feedback at the end of the course
 ** Trainer
 ** Material
@@ -77,6 +83,7 @@ Success!!
 * Open system to create surveys and gather responses
 
 == Labs / Hands On Parts
+[%step]
 * Generate homepage for practical elements of the training
 * Tooling for spinning up VMs in AWS, Azure, GCP, ...
 ** Provisioning

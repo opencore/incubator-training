@@ -2,24 +2,27 @@
 *Absolutely!!!*
 
 == Existing Pull Requests
+[%step]
 * Help with reviewing pull requests
 ** Formal Review
 ** Content Review
 
 == Convert Donated Material
-* Material might have been donated in a variety of formats (most commonly Powerpoint)
-* We need help with converting this to Asciidoc
+[%step]
+* Material might have been donated in a variety of formats (most commonly PowerPoint)
+* We need help with converting this to AsciiDoc
 
 == Create New Content
+[%step]
 * Do you have a topic near and dear to your heart?
 ** Growing tomatoes on small balconies with no sun exposure?
 ** Performing an oil change on a 1967 Oldsmobile Regency?
 ** ...
-
-Pull Requests welcome!
+* Pull Requests welcome!
 
 == Become Part of the Community
-* Join us on the mailing list
+[%step]
+* Join us on the mailto:dev-subscribe@training.apache.org[mailing list] (dev-subscribe@training.apache.org)
 * Give input on what you think would make sense
 * Pretty much anything else :)
 

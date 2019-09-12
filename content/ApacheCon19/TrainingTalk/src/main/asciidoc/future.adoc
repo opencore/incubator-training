@@ -1,5 +1,5 @@
 == What we'd like
-
+[%step]
 * Collaborate with the projects itself
 ** We tried this twice
 *** Once (ZooKeeper) worked out really well
@@ -18,7 +18,7 @@ official. [...]"
 
 
 == What we'd like
-
+[%step]
 * A Web UI to browse, filter, search, combine our content
 * A "parent POM" that new pieces of content can inherit from
 ** Currently - unfortunately - this involves Copy & Pasting
@@ -28,5 +28,5 @@ official. [...]"
 
 Justin, don't beat me for this:
 
-[% step]
+[%step]
 * An easier way to "release" a product
